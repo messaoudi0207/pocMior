@@ -1,0 +1,2 @@
+# pocMior
+Automatisation
